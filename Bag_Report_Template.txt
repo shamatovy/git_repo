@@ -1,0 +1,19 @@
+Summary
+Project
+Component
+Version
+Severity
+Priority
+Status
+Author
+Assigned to
+______
+Env
+______
+Description
+Steps to reproduce
+Result
+Expected Result
+______
+Add
+Attachment
